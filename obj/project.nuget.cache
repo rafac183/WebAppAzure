@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cJLF3kRx2k/Vb1Oq9OVY5czB6OYF6jxkDbkN89aXnGzNsT9fHYHWIHzszdzFreR+JAfDM/LBVF33umPyVZDbBA==",
+  "dgSpecHash": "J52CCRr81zXUQZdP2+qnaAd3EsRgbhTty1kxPu5w5w57CTEugEy7Ag99S/KNwpNmw9jkkU47GS1uNqlTCq42ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafae\\GitBash\\Cursos\\Azure\\WebAppsAzure\\WebAzureMVC\\WebAzureMVC.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\GitBash\\WebAppAzureMVC\\WebAzureMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

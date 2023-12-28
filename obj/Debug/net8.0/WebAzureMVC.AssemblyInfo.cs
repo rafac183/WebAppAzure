@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAzureMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99dd81cdd4ec6fa008b589227f3362076f5d949d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42c501b4edd86539b4691b96ec4321bf4f6c7715")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAzureMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAzureMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
